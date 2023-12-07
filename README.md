@@ -1,2 +1,2 @@
 # VentspilsITC
-Code for VentspilsITC competitio
+Code for VentspilsITC competition
